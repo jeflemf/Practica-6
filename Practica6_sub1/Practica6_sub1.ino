@@ -6,7 +6,7 @@
    Codigo Tecnico: EB5AM / EB5AV 
    Curso: Taller de electronica digital y reparacion de computadoras I
    Proyecto: Uso de la pantalla LCD sin interfaz I2C
-   Dev: Jefferso Yahir González González
+   Dev: Jefferson Yahir González González
    Fecha: 07 de mayo   
 */
 
